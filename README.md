@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @Ansh933
+- 👋 Hi, I’m @Ansh933 
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me royalclasher.qwerty@gmail.com
 - You Can Mail Me for Projects    (Mail Me your Discord too!)
+
+
+- I mainly focus on pygame
 
 <!---
 Ansh933/Ansh933 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
